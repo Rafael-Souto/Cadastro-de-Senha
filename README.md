@@ -1,3 +1,3 @@
 # Cadastro de Senha
 
-## Cadastro de Senha / do-while
+## Algoritmo para cadastrar a senha da conta bancária.
